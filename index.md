@@ -6,17 +6,19 @@ profile_picture:
 ---
 
 
-
-<p>
-  Hi there, I am Johnny Lau. I am passionate about using an experimental testing and data-driven approach to address real-life questions. I have a keen interest in applied research, data science & tech innovation.
+<p> I have a keen interest in applied research & tech innovation in healthcare, sustainable living, and human-machine interaction. 
 </p>
 
-<p>
-  I am research scientist. My work uses a combination of multiple techniques including experimental testing, statistical modelling, neuroimaging and machine learning to understand cognitive functions and impairments in human. 
+<p> Currently, I am a data scientist in a telematics company, taking care of the statistical modelling & predictive analytics to detect vehicle accidents and battery health. I work on different stages of the ML operations - data management, feature engineering, model training & testing, and deployment to production.
+</p>
+
+<p> In my previous roles as a scientific researcher in the university, I ran and managed research studies investigating the human cognition and neural mechanisms using behavioural and brain imaging data. 
 </p>
 
 
 <p>
-  My recent project at the University of Reading is concerned with understanding the mechanisms underlying how decisions are made and driven by rewards and motivation (like curiosity). 
-  This work has recently been featured in <a href="https://www.the-scientist.com/notebook/curiosity-and-hunger-are-driven-by-the-same-brain-regions-67992" target="_blank">The Scientist</a> magazine. 
+ When I am not working, I am probably having adventures - climbing, cycling, paddling, and walking in the woods.
 </p>
+
+<p> Thanks for stopping by. 
+</p> 

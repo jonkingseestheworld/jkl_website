@@ -24,30 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "_includes/header.html",
+			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 1129,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_base.scss",
-			"settings":
-			{
-				"buffer_size": 3338,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "/**\n * Site header\n */\n.site-header {\n  border-bottom: 1px solid $grey-color;\n  min-height: 56px;\n\n  padding-top: 10px;\n  padding-bottom: 10px;\n\n  @include media-query($on-mobile) {\n    padding-top: 0;\n    padding-bottom: 0;\n  }\n\n  // Positioning context for the mobile navigation icon\n  position: relative;\n}\n\n.site-nav {\n  overflow: hidden;\n}\n\n.site-nav a {\n  float: left; padding: 10px;\n}\n\n.toggle_icon {\n  font-size: 20px; \n  padding-right: 5px;\n  margin-top: 5px; \n  \n  &:hover {\n    color: $dark-main-orange-color;\n  }\n}\n\n\n\n\n\n.site-title {\n  font-size: 24px;\n  line-height: 45px;\n  letter-spacing: -1px;\n\n  &,\n  &:visited {\n    color: $grey-color-dark; \n  };\n\n  /** added by jkl */                    \n  &:hover {\n    color: $text-hover-color;\n  }\n\n}\n\n\n/** added by jkl */\n.king-charact {\n  height: 28px;\n  padding-left: 10px;\n  margin-top: -5px;\n}\n\n\n\n\n/**\n * Site nav\n */\n.site-nav-right {\n  z-index: 10;\n  line-height: 56px;\n  \n  list-style-type: none;\n  overflow: hidden;\n  float: right;\n\n  padding-top: 10px;\n\n  .menu-icon {\n    display: none;\n  }\n\n  .page-link {\n    font-size: 17px;\n    color: $main-green-color;\n    line-height: $base-line-height;\n    padding: 5px;\n    padding-bottom:10px;\n    border-radius: 5px;\n\n    // Gaps between nav items, but not on the first one\n    &:not(:first-child) {\n      margin-left: 12px;\n    };\n\n    &:hover {\n    color: $text-hover-color;\n    background-color: #ddd;\n    };\n  }\n\n\n\n  @include media-query($on-mobile) {\n    position: absolute;\n    top: 12px;\n    right: 24px;\n\n    border: 1px solid $grey-color-light;\n    border-radius: 5px;\n    text-align: right;\n\n    .menu-icon {\n      display: block;\n      float: right;\n      width: 36px;\n      height: 26px;\n      line-height: 0;\n      padding-top: 4px;\n      text-align: center;\n\n      background: #ffffff url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;\n    }\n\n    .menu {\n      clear: both;\n      display: none;\n      background-color: #ffffff;\n      min-width: 10em;\n      padding-bottom: 5px;\n    }\n\n    .page-link {\n      font-size: 16px;\n      display: block;\n      padding: 6px 16px;\n    };\n\n  }\n}\n\n\n.page-home .link-HOME, \n.page-blog .link-BLOG,\n.page-projects .link-PROJECTS,\n.page-work .link-WORK {\n  font-weight: bold;\n}\n\n\n\n/**\n * Site footer\n */\n.site-footer {\n  border-top: 1px solid $grey-color;\n  padding-top: $spacing-unit /2;\n  padding-bottom: $spacing-unit /2;\n  text-align: right;\n\n  @include media-query($on-mobile) {\n    padding-top: 10px;\n  }\n}\n\n\n\n\n\n.powered-by {\n  float: left;\n  text-decoration: none;\n  font-size: 14px;\n  color: $grey-color-dark;\n  padding-top: 5px;\n  font-weight: bold;\n}\n\n\n.social-links {\n  padding-top: 5px;\n}\n\n.social-links a i {\n  font-size: 25px; padding: 0px 10px; \n  color:$grey-color-dark;\n\n  &:hover {\n    color: $text-hover-color;\n    };\n}\n\n\n@include media-query($on-mobile) {\n  .footer-col {\n    float: none;\n    width: 100%;\n  }\n}\n\n/**\n * Page content\n */\n.page-content {\n  padding: $spacing-unit 0;\n  min-height: 350px;\n}\n\n.page-heading {\n  font-size: 20px;\n}\n\n\n\n",
-			"file": "_sass/_layout.scss",
-			"file_size": 3033,
-			"file_write_time": 132478792333492778,
-			"settings":
-			{
-				"buffer_size": 3033,
+				"buffer_size": 990,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -85,17 +65,25 @@
 	},
 	"expanded_folders":
 	[
-		"/D/free_softwares/bay_master",
-		"/D/free_softwares/bay_master/_includes",
-		"/D/free_softwares/bay_master/_layouts",
-		"/D/free_softwares/bay_master/_posts",
-		"/D/free_softwares/bay_master/_sass",
-		"/D/free_softwares/bay_master/assets",
-		"/D/free_softwares/bay_master/assets/css",
-		"/D/free_softwares/bay_master/assets/js"
+		"/D/Github_folder/my-website"
 	],
 	"file_history":
 	[
+		"/D/Github_folder/my-website/_layouts/post.html",
+		"/D/Github_folder/my-website/blog.md",
+		"/D/Github_folder/my-website/index.md",
+		"/D/Github_folder/my-website/_layouts/blog.html",
+		"/D/Github_folder/my-website/_posts/2020-09-04-object-classification-fastai-model.md",
+		"/D/Github_folder/my-website/_config.yml",
+		"/D/Github_folder/my-website/_includes/publications.html",
+		"/D/Github_folder/my-website/research.md",
+		"/D/Github_folder/my-website/_sass/_site.scss",
+		"/D/Github_folder/my-website/_site/blog.html",
+		"/D/Github_folder/my-website/science.md",
+		"/D/Github_folder/my-website/README.md",
+		"/D/Github_folder/my-website/_includes/header.html",
+		"/D/Github_folder/my-website/_sass/_base.scss",
+		"/D/Github_folder/my-website/_sass/_layout.scss",
 		"/D/free_softwares/bay_master/assets/js/bg_mode.js",
 		"/D/free_softwares/bay_master/_config.yml",
 		"/D/free_softwares/bay_master/assets/css/main.scss",
@@ -204,30 +192,15 @@
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/index.html",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/style.css",
 		"/D/Github_folder/my-website/.gitignore",
-		"/D/Github_folder/my-website/README.md",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/academicons.css",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/academicons.min.css",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/2.3.2/bootstrap.css",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/2.3.2/bootstrap-responsive.css",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/bootstrap-theme.css",
-		"/D/Github_folder/my-website/css/fonts/academicons.svg",
-		"/D/Github_folder/my-website/css/fonts/academicons.ttf",
-		"/D/Github_folder/my-website/css/css/academicons.css",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/bootstrap.css",
-		"/D/Github_folder/my-website/css/bower.json",
-		"/D/Github_folder/my-website/css/.gitattributes",
-		"/D/Github_folder/my-website/css/reset.css",
-		"/D/Github_folder/my-website/css/README.md",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/fonts/academicons.svg",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/fonts/academicons.ttf",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/fonts/academicons.eot",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/contact/index.html",
-		"/D/Github_folder/my-website/about.html",
-		"/D/Github_folder/my-website/contact.html"
+		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/bootstrap-theme.css"
 	],
 	"find":
 	{
-		"height": 42.4
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -242,6 +215,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"my first object",
+			"blog-post",
+			"the post",
+			"profile-pic",
+			"profilepic",
+			"jkl_work",
+			"work",
+			"personal website",
+			"personal web",
+			"personal homepage",
 			"site-na",
 			"site-",
 			"site-t",
@@ -356,24 +339,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_includes/header.html",
+					"file": "_includes/footer.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1129,
+						"buffer_size": 990,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								572,
-								572
+								285,
+								285
 							]
 						],
 						"settings":
@@ -383,70 +366,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 60.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_sass/_base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3338,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3336,
-								3336
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4712.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_sass/_layout.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3033,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								524,
-								524
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 512.8,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
