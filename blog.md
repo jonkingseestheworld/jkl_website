@@ -15,7 +15,7 @@ items:
     date: 2019/09/05
     link: https://escience.washington.edu/participants-offer-insight-on-neurohackademy/
 
-  - title: Explaining the power of curiosity - hunger for knowledge is much the same as hunger for food 
+  - title: Explaining the power of curiosity 
     date: 2018/12/03
     link: https://digest.bps.org.uk/2018/12/03/explaining-the-power-of-curiosity-to-your-brain-hunger-for-knowledge-is-much-the-same-as-hunger-for-food/
     
