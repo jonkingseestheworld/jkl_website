@@ -31,6 +31,15 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_sass/_site.scss",
+			"settings":
+			{
+				"buffer_size": 1309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -71,8 +80,11 @@
 	[
 		"/D/Github_folder/my-website/_layouts/post.html",
 		"/D/Github_folder/my-website/blog.md",
-		"/D/Github_folder/my-website/index.md",
+		"/D/Github_folder/my-website/_sass/_blog.scss",
 		"/D/Github_folder/my-website/_layouts/blog.html",
+		"/D/Github_folder/my-website/_sass/_layout.scss",
+		"/D/Github_folder/my-website/_sass/_post.scss",
+		"/D/Github_folder/my-website/index.md",
 		"/D/Github_folder/my-website/_posts/2020-09-04-object-classification-fastai-model.md",
 		"/D/Github_folder/my-website/_config.yml",
 		"/D/Github_folder/my-website/_includes/publications.html",
@@ -83,7 +95,6 @@
 		"/D/Github_folder/my-website/README.md",
 		"/D/Github_folder/my-website/_includes/header.html",
 		"/D/Github_folder/my-website/_sass/_base.scss",
-		"/D/Github_folder/my-website/_sass/_layout.scss",
 		"/D/free_softwares/bay_master/assets/js/bg_mode.js",
 		"/D/free_softwares/bay_master/_config.yml",
 		"/D/free_softwares/bay_master/assets/css/main.scss",
@@ -194,13 +205,11 @@
 		"/D/Github_folder/my-website/.gitignore",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/academicons.css",
 		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/academicons.min.css",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/2.3.2/bootstrap.css",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/2.3.2/bootstrap-responsive.css",
-		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/bootstrap-theme.css"
+		"/C/Users/DrJKLau/Downloads/gkiar.github.io-master/gkiar.github.io-master/css/2.3.2/bootstrap.css"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 42.4
 	},
 	"find_in_files":
 	{
@@ -215,6 +224,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"blog",
 			"my first object",
 			"blog-post",
 			"the post",
@@ -339,7 +349,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -362,6 +372,36 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/_site.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
