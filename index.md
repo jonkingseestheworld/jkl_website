@@ -5,20 +5,15 @@ profile_picture:
   alt: website picture
 ---
 
-
-<p> I have a keen interest in applied research & tech innovation in healthcare, sustainable living, and human-machine interaction. 
+<p> Johnny is a research and data scientist, who has gained his expertise in analytics and research from working in both academic and industry settings for over a decade.
 </p>
 
-<p> Currently, I am a data scientist in a telematics company, taking care of the statistical modelling & predictive analytics to detect vehicle accidents and battery health. I work on different stages of the ML operations - data management, feature engineering, model training & testing, and deployment to production.
+<p> Johnny is currently working at Vitaccess (a patient research company), overseeing the management and quality assurance of data, as well as managing and consulting on analytics projects with pharma clients. 
 </p>
 
-<p> In my previous roles as a scientific researcher in the university, I ran and managed research studies investigating the human cognition and neural mechanisms using behavioural and brain imaging data. 
-</p>
+<p> Previously working as a researcher in cognitive neuroscience at the university, he studied the human cognition and neural mechanisms using a combination of experimental testing, machine learning and brain imaging techniques. </p>
 
 
-<p>
- When I am not working, I am probably having adventures - climbing, cycling, paddling, and walking in the woods.
-</p>
 
 <p> Thanks for stopping by. 
-</p> 
+</p>
