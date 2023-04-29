@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="page-projects">
+  {% include head.html %}
+
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+          {{ content }}
+
+          <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 168, "gutter": 5 }'>
+
+            {% for item in page.items %}
+              <div class="grid-item grid-item--width2">
+                <a data-fslightbox="gallery" href="{{ item.image.src | absolute_url }}">
+                  <img src="{{ item.image.src | absolute_url }}" alt="{{ item.image.alt }}" >
+                </a>
+              </div>
+
+            {% endfor %}
+
+          </div>
+      </div>
+    </div>
+
+    <script src="assets/js/masonry.pkgd.min.js"></script>
+    <script src="assets/js/fslightbox.js"></script>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>

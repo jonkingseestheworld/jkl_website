@@ -1,0 +1,28 @@
+
+.grid {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+} 
+
+
+.grid-item { 
+  width: 168px;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.grid-item--width2 { 
+  width: 336px;
+}
+
+.grid-item--width3 { 
+  width: 504px; 
+}
+
+.grid-item--width4 { 
+  width: 672px;
+}
+
+
+
