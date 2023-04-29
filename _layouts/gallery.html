@@ -11,7 +11,7 @@
       <div class="wrapper">
           {{ content }}
 
-          <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 168, "gutter": 5 }'>
+          <div class="grid">
 
             {% for item in page.items %}
               <div class="grid-item grid-item--width2">
@@ -26,7 +26,32 @@
       </div>
     </div>
 
+    <script src="assets/js/jquery-3.6.4.min.js"></script>
     <script src="assets/js/masonry.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+
+    <script type="text/javascript"> 
+        // init Masonry
+        var $grid = $('.grid').masonry({
+          "itemSelector": ".grid-item", 
+          "columnWidth": 168, 
+          "gutter": 5 
+        });
+        // layout Masonry after each image loads
+        $grid.imagesLoaded().progress( function() {
+          $grid.masonry('layout');
+        }); 
+
+       /* var $grid = $('.grid').imagesLoaded( function() {
+         // init Masonry after all images have loaded
+         $grid.masonry({
+           "itemSelector": ".grid-item", 
+           "columnWidth": 168, 
+           "gutter": 5            
+         });
+       }); */       
+    </script>
+
     <script src="assets/js/fslightbox.js"></script>
 
     {% include footer.html %}
