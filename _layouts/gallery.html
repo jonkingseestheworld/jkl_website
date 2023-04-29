@@ -32,7 +32,7 @@
 
     <script type="text/javascript"> 
         // init Masonry
-        var $grid = $('.grid').masonry({
+        /* var $grid = $('.grid').masonry({
           "itemSelector": ".grid-item", 
           "columnWidth": 168, 
           "gutter": 5 
@@ -40,16 +40,16 @@
         // layout Masonry after each image loads
         $grid.imagesLoaded().progress( function() {
           $grid.masonry('layout');
-        }); 
+        });  */
 
-       /* var $grid = $('.grid').imagesLoaded( function() {
+       var $grid = $('.grid').imagesLoaded( function() {
          // init Masonry after all images have loaded
          $grid.masonry({
            "itemSelector": ".grid-item", 
            "columnWidth": 168, 
            "gutter": 5            
          });
-       }); */       
+       });      
     </script>
 
     <script src="assets/js/fslightbox.js"></script>
