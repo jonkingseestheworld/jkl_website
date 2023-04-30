@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Projects
+title: PROJECTS
 slug: /projects
 items:
 
@@ -70,5 +70,5 @@ items:
 
 ---
 
-Here are some research and side projects I have recently worked on.
+Here are some projects of predictive models, interactive visuals, and cognitive science research that I have worked on recently.
 <br />
