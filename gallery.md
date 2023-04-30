@@ -52,5 +52,9 @@ items:
 
 ---
 
-Blah blah blah
-<br />
+Gallery of my selected data visualisation works.
+<br>
+<br>
+<i>Data visualisation is an essential part of the data exploratoration process and enable effective communication of results.</i> My works here are primarily created with R, but I also have experience of using Python, Matlab, and Quicksight for data viz. 
+<br>
+<br>

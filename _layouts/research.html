@@ -12,7 +12,7 @@
         <div class="work">
 
           <div id="brainstill" style="text-align: center;">
-            <img src="assets/img/brainstill.png" width=725px height=310px  style="padding:0; border:0;  margin: 10px auto;" />    <!-- width=850px height=360px -->
+            <img src="{{ 'assets/img/brainstill.png' | absolute_url }}" width="725" height="310"  style="padding:0; border:0;  margin: 10px auto;" />    <!-- width=850px height=360px -->
           </div>
         
             <p style="padding-top:10px;">  This is my brain. You can move around in it (if you are using a laptop to visit this page). It may tell you something more about me :D. </p>
@@ -30,13 +30,13 @@
 
             {% include publications.html %}
 
-            {% include presentations.html %}
+          <!-- -  {% include presentations.html %} - -->
           </div>
           
-          <div class="work_section"> 
+          <!--- <div class="work_section"> 
 
             {% include honours.html %}
-          </div>
+          </div>   --->
 
 
         </div>
@@ -44,13 +44,11 @@
     </div>
 
 
-
-
     {% include footer.html %}
-
     {% include foot.html %}
 
-    <script async defer src="assets/js/brain_explore.js"></script>
+    <script type="text/javascript" async defer src="{{ 'assets/js/brain_explore.js' | absolute_url }}"></script> 
+
 
   </body>
 </html>

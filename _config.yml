@@ -13,9 +13,16 @@ header:
   pages:
     - name: HOME
       slug: /
+      inmenu: true
     - name: PROJECTS
+      inmenu: true
+    - name: GALLERY
+      inmenu: true
     - name: BLOG
+      inmenu: true
     - name: RESEARCH
+      inmenu: false
+
 footer:
   show_copyright: True
 
