@@ -2,19 +2,18 @@
 layout: research
 title: ""
 slug: /research
-sub_title1: About Me & Previous Research Experience
+sub_title1: My Research Interest and Experience
 
 
 ---
 
 
-* My recent work gets people curious about neurocuriosity.
+* My research and learning interests lie in analytic methods, behavioural research, and data science - with a focus on real world applications. 
 
-* I completed my PhD at the University of Birmingham. My doctoral research examined the neural mechanisms of object and action processing in patients with stroke and neurologically healthy individuals.
+* My previous research in cognitive science focused on identifying the brain mechanism that supports motivated decision-making behaviours. In a project with research findings published in the journal Human Nature Behaviour, we performed multiple experiments and modelling analyses, showing the common neural activities for risk-taking decisions driven by both curiosity and extrinsic rewards.
 
-* I have a Master of Research degree in Cognitive Neuropsychology and extensive experience running cognitive assessment and working with patients with brain injury.
+* I completed my doctoral degree (Cognitive Neuroscience) and an MRes degree (Cognitive Neuropsychology) at the University of Birmingham. My PhD research aimed at mapping the brain lesions related to cognitive impairments, particularly visual agnosia (deficits at object recognition) and apraxia (deficits at performing skilled movements and gestures) after stroke. 
 
-* I support and enjoy working in a collaborative environment.
 
 <br />
 

@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/projects/spotify_phone.jpg
       alt: music
-    description: I developed a song analyzer and recommendation tool, based on Random Forest and tested with multiple other algorithms, using personal Spotify listening histories and song feature data acquired from Kaggle. 
+    description: I developed a song analyzer and recommendation tool, based on Random Forest and tested with multiple other ML algorithms, using personal Spotify listening histories and song feature data acquired from Kaggle. 
     link_info: '[Github]'
     link: https://github.com/jonkingseestheworld/Music_Match_Maker
 
@@ -26,7 +26,7 @@ items:
     image:
       src: /assets/img/projects/ggplots.jpg
       alt: curiosity_ggplots
-    description: <i>Can curiosity kill the cat?</i> Using <b>(generalised) mixed-effects modelling, structural equation modelling</b> and <b>Bayesian inference</b>, this research project shows <u>similar cognitive-neural mechanisms underlying the driving force of curisosity and extrinsic instrumental rewards for risk-taking</u> (in a group of brain areas called the brain's reward networks). This work is published in the journal
+    description: <i>Can curiosity kill the cat?</i> Using <b>(generalised) mixed-effects modelling, structural equation modelling</b> and <b>Bayesian inference</b>, this research project shows <i>similar cognitive-neural mechanisms underlying the driving force of curisosity and extrinsic instrumental rewards for risk-taking</i> (in a group of brain areas called the brain's reward networks). This work is published in the journal
     link_info: 'Nature Human Behaviour.'
     link: https://www.nature.com/articles/s41562-020-0848-3
 
