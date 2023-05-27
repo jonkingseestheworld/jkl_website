@@ -3,18 +3,21 @@ layout: gallery
 title: GALLERY
 slug: /gallery
 items:
+  - image:
+      src: /assets/img/gallery/tt20230425wk17_marathon.png
+      alt: LondonMarathon
 
   - image:
       src: /assets/img/gallery/PassportAccessRank2023_plot.png
       alt: PassportRank
 
   - image:
-      src: /assets/img/gallery/HP_trait_similarity_network.png
-      alt: HP_network
- 
-  - image:
       src: /assets/img/gallery/2_Line_jpn_airports.png
       alt: JPN_airport
+
+  - image:
+      src: /assets/img/gallery/HP_trait_similarity_network.png
+      alt: HP_network
 
   - image:
       src: /assets/img/gallery/1_Point_uk_pubs_starbucks.png
@@ -47,14 +50,11 @@ items:
   - image:
       src: /assets/img/gallery/day8_OSM_Bham.png
       alt: Bham_OSM
-
-
-
 ---
 
-Gallery of my selected data visualisation works.
+Collection of my selected data viz works.
 <br>
 <br>
-<i>Data visualisation is an essential part of the data exploratoration process and enable effective communication of results.</i> My works here are primarily created with R, but I also have experience of using Python, Matlab, and Quicksight for data viz. 
+<i>Data visualisation is an essential part of the data exploratoration process and enable effective communication of results.</i> The works here are primarily created with R, but I also have experience of using Python, Matlab, and Quicksight for data visualisation.
 <br>
 <br>
