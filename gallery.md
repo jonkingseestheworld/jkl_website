@@ -3,6 +3,15 @@ layout: gallery
 title: GALLERY
 slug: /gallery
 items:
+
+  - image:
+      src: /assets/img/gallery/tt20230711wk28_global_temp.gif
+      alt: GlobalTemp
+
+  - image:
+      src: /assets/img/gallery/tt20230711wk28_NorthernHemi_temp.gif
+      alt: NHTemp
+
   - image:
       src: /assets/img/gallery/tt20230425wk17_marathon.png
       alt: LondonMarathon
@@ -11,6 +20,10 @@ items:
       src: /assets/img/gallery/PassportAccessRank2023_plot.png
       alt: PassportRank
 
+  - image:
+      src: /assets/img/gallery/tt20230704wk27_hist_markers.png
+      alt: Historical_markers
+      
   - image:
       src: /assets/img/gallery/2_Line_jpn_airports.png
       alt: JPN_airport
